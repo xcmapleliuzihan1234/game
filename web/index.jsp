@@ -7,10 +7,13 @@
 --%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
-  <head>
-    <title>$Title$</title>
-  </head>
-  <body>
-  $END$
+ <body>
+    <head><%@ include file="head.jsp" %></head>
+    <title>首页</title>
+    <center> <h1><font Size=4 color=blue>
+      欢迎来到“王者荣耀”
+    </font></h1>
+      <img src="image/timg.jpg" ></img>
+    </center>
   </body>
 </html>
