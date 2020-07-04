@@ -8,6 +8,7 @@
 <%@ page contentType="text/html;charset=GB2312" %>
 <jsp:useBean id="loginBean" class="mybean.data.Login" scope="session"/>
 <html><head><%@ include file="head.jsp" %></head>
+<title>µÇÂ¼Ò³Ãæ</title>
 <font size=2>
     <div align="center">
         <table border=2>

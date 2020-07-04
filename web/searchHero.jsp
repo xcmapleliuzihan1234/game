@@ -7,6 +7,7 @@
 --%>
 <%@ page contentType="text/html;charset=GB2312" %>
 <html><head><%@ include file="head.jsp" %></head>
+<title>查询页面</title>
 <font size=2>
     <div align="center">
         <br>查询时可以输入英雄名称及价格。<br>
