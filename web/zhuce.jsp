@@ -6,6 +6,7 @@
   To change this template use File | Settings | File Templates.
 --%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
+<jsp:useBean id="userBean" class="mybean.data.Register" scope="request"/>
 <head><%@ include file="head.jsp" %></head>
 <title>注册页面</title>
 <html><Font size=2>
